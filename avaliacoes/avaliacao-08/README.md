@@ -1,12 +1,13 @@
-<h1> Avaliação realizada por João Pedro em conjunto de <a href="https://github.com/mario2805" target="_self" rel="external">Mario Soares</a> </h1>
+<h1> Avaliação realizada por João Pedro
 Projeto inicial de programacao utilizando Flutter.
 
-<h3>Video<h3>
+<h3>Imagem<h3>
 
   
-https://github.com/user-attachments/assets/11c73c6f-5759-4f66-89d3-1f18c0898192
 
 
 
 
+
+![Captura de tela 2024-08-29 153240](https://github.com/user-attachments/assets/264266fd-dbe5-4445-ba91-e15744a1f4fe)
 
