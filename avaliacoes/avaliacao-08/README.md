@@ -1,4 +1,4 @@
-<h1> Avaliação realizada por João Pedro
+<h1> Avaliação realizada por João Pedro</h1>
 Projeto inicial de programacao utilizando Flutter.
 
 <h3>Imagem<h3>
